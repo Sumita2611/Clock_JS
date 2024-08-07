@@ -1,0 +1,19 @@
+#stop-btn{
+  background-color: red;
+  text-align: center;
+  text-emphasis-color: white;
+}
+
+#time{
+  font-size: large;
+  text-align: center;
+  text-decoration: solid;
+}
+
+*{
+  margin: 10px;
+  padding: 10px;
+  background-color: black;
+  text-align: center;
+  color: white;
+}
